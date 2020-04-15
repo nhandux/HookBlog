@@ -1,0 +1,7 @@
+export const postConstants = {
+    GET_POST_LIST: 'GET_POST_LIST',
+    REQUEST_LIST: 'REQUEST_LIST',
+    GET_POST_HOT: 'GET_POST_HOT',
+    REQUEST_FORM: 'REQUEST_FORM',
+    GET_INFO_POST: 'GET_INFO_POST'
+}
